@@ -17,34 +17,14 @@ header {
   background: #fafaf8;
 }
 
-h1 {
-  padding: 20px 0;
-  margin: 15px;
-  margin-bottom: 20px;
-  font-size: 28px;
-  color: #fafaf8;
-  background: #278a71;
-  text-align: left;
-}
-
 h2 {
   padding: 20px 0;
   margin: 15px;
   margin-bottom: 20px;
-  font-size: 28px;
+  font-size: 36px;
   color: #278a71;
   background: #fafcf8;
   text-align: left;font-size: 24px;
-}
-
-h3 {
-    padding: 20px 0;
-    margin: 25px;
-    margin-bottom: 20px;
-    font-size: 28px;
-    color: #278a71;
-    background: #fafcf8;
-    text-align: left;font-size: 20px;
 }
 
 a {
@@ -74,11 +54,11 @@ img{
 }
 
 #summary {
-  width: 70%;
+  width: 80%;
 }
 
+
 #Fig1 {
-  width: 150px;
-  height: 150px;
-  margin-right: 20px;
+  width: 800px;
+  height: 800px;
 }
